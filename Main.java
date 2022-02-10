@@ -9,7 +9,7 @@ public class Main
 		//os "[]" podem ser colocados tanto do lado direito como do lado esquerdo do objeto.
 		int vetor[] = new int [10]; //O vetor tem o índice 10.
 		
-		//Aplicando valores aos índices.
+		//Atribuindo valores aos índices.
 		vetor[0] = 1;
 		vetor[1] = 2;
 		vetor[2] = 3;
